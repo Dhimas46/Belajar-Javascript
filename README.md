@@ -3,7 +3,7 @@ Latihan 1 :
 ![alt text](https://github.com/Dhimas46/Belajar-Javascript/blob/master/Latihan%201.JPG)
 
 Latihan 2 :
-![alt text}(https://github.com/Dhimas46/Belajar-Javascript/blob/master/Latihan%202.JPG)
+![alt text](https://github.com/Dhimas46/Belajar-Javascript/blob/master/Latihan%202.JPG)
 
 Latihan 3 :
 ![alt text](https://github.com/Dhimas46/Belajar-Javascript/blob/master/Latihan%203.JPG)
